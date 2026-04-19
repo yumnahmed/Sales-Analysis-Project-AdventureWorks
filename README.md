@@ -26,7 +26,8 @@ The dashboard enables users to explore key business metrics, identify trends, an
 
 ## 📂 Data Source
 
-AdventureWorks Sample Database:https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms
+AdventureWorks Sample Database: https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms
+
 Includes:
 
 * Sales Orders
