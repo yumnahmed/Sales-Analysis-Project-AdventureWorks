@@ -1,4 +1,4 @@
-# 📊 Sales Analysis Project – AdventureWorks20200
+# 📊 Sales Analysis Project – AdventureWorks2022
 
 ## 📌 Overview
 
