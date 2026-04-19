@@ -1,4 +1,4 @@
-# 📊 Sales Analysis Project – AdventureWorks
+# 📊 Sales Analysis Project – AdventureWorks20200
 
 ## 📌 Overview
 
@@ -26,7 +26,7 @@ The dashboard enables users to explore key business metrics, identify trends, an
 
 ## 📂 Data Source
 
-AdventureWorks Sample Database
+AdventureWorks Sample Database:https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms
 Includes:
 
 * Sales Orders
